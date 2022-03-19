@@ -1,0 +1,19 @@
+Test
+
+1)Are you happy?
+y/n
+
+2)Are you sure?
+y/n
+
+1)Are you sad?
+y/n
+
+2)Are you sure?
+y/n
+
+1)Are you a human?
+y/n
+
+2)Are you sure?
+y/n
