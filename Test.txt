@@ -1,10 +1,10 @@
 Test
 
 1)Are you happy?
-y/n
+y/n -y
 
 2)Are you sure?
-y/n
+y/n -y
 
 1)Are you sad?
 y/n
